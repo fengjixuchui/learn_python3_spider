@@ -43,6 +43,9 @@ peace.
 - [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
 - [python爬虫系列教程29 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)
 - [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
+- [mitmproxy | 那个站在中间的男人，使用Python就能直接操控你的上网请求](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485104&idx=1&sn=5ee4a04e6ce2854e5507cd320517fd0d&chksm=fc8bbe21cbfc373738d926e0ca3250f44079449a85c1fe88f307805e28a3cc4ada07d9e322bb&token=2085568099&lang=zh_CN#rd)
+- [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485117&idx=1&sn=3819b0d55ec071164b7cabe2477ddc13&scene=19#wechat_redirect)
+
 
 
 ## python爬冲进阶：python爬虫反爬
@@ -57,6 +60,8 @@ peace.
 - [python爬取你喜欢的公众号的所有原创文章，然后搞成PDF慢慢看](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484657&amp;idx=1&amp;sn=998bfcce6cd22b7fedff29e68a46fe3f&amp;chksm=fc8bbc60cbfc3576f117d3566fbea8a042ee573d840bbe6a3d4ec9bffef815c691b7f9a59711&amp;scene=27#wechat_redirect) 
 - [当 python 遇到你的微信的时候，你才发现原来你的微信好友是这样的](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484710&amp;idx=1&amp;sn=cf17f2e87405ebffb20edd0ca0a7315b&amp;chksm=fc8bbdb7cbfc34a1389e17d4485b677d5ada497a404dc8f14107914e50382c640e7bd3cb93a4&amp;scene=27#wechat_redirect) 
 - [高考要来了，扒一扒历年高考录取分数来压压惊](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484745&amp;idx=1&amp;sn=24362e73605d30e06ebe05d1fe7225f2&amp;chksm=fc8bbdd8cbfc34ce100b9461f46c8a1c0008172f101b34b38e146f56323bc40bbd373a127ee8&amp;scene=27#wechat_redirect) 
+- [随着身子的一阵颤抖，Python爬取抖音上的小姐姐突然变得索然无味](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485150&idx=1&sn=b813993925a1031d4e85eb8841ccdb37&scene=19#wechat_redirect)
+
 
 
 ## 爬虫实例源代码
@@ -72,6 +77,10 @@ peace.
 [7、scrapy爬取糗事百科段子到MongoDB（上）](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-29.html)、[scrapy爬取糗事百科段子到MongoDB(下)](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/qiushibaike) 
 [8、python爬取 20w 表情包之后，从此你就成为了微信斗图届的高手](https://fxxkpython.com/python-pa-qu-biao-qing-bao.html) | [源码](https://github.com/wistbean/learn_python3_spider/tree/master/biaoqingbao)
 > 未完待续...
+
+## 爬虫技巧
+
+- [给你们说几点鲜有人知的爬虫技巧](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485129&idx=1&sn=56a9aecafa73162c639a873b5bbdf534&chksm=fc8bbe58cbfc374e5c033a37a82b94e8391855d85f1db26975579ddb3cf0882f1157e37f224c&token=2111372640&lang=zh_CN#rd)
 
 ## python爬虫段子
 
@@ -89,4 +98,5 @@ peace.
 
 ![扫一扫关注学习python的正确姿势](https://fxxkpython.com/images/wxgzh.jpeg)
 
-免费知识星球，搜索：小帅b
+## 通往Python高手之路
+小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
